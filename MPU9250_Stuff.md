@@ -1,4 +1,4 @@
-# MPU9260 with ESP8266
+# MPU9250 with ESP8266
 
 SEN-13762 from digikey I think
 
